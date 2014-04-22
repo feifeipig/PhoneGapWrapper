@@ -72,10 +72,10 @@
     <icon src="logo.jpg"  gap:platform="android"    gap:density="xhdpi" />
     <icon src="logo.jpg"     gap:platform="blackberry" />
     <icon src="logo.jpg"     gap:platform="blackberry" gap:state="hover"/>
-    <icon src="logo.jpg"            gap:platform="ios"        width="57" height="57" />
-    <icon src="logo.jpg"            gap:platform="ios"        width="72" height="72" />
-    <icon src="logo.jpg"         gap:platform="ios"        width="114" height="114" />
-    <icon src="logo.jpg"         gap:platform="ios"        width="144" height="144" />
+    <icon src="logo.png"            gap:platform="ios"        width="57" height="57" />
+    <icon src="logo.png"            gap:platform="ios"        width="72" height="72" />
+    <icon src="logo.png"         gap:platform="ios"        width="114" height="114" />
+    <icon src="logo.png"         gap:platform="ios"        width="144" height="144" />
     <icon src="logo.jpg"          gap:platform="webos" />
     <icon src="logo.jpg"  gap:platform="winphone" />
     <icon src="logo.jpg" gap:platform="winphone"   gap:role="background" />
