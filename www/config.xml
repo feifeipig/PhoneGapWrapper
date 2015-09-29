@@ -92,6 +92,6 @@
     <gap:splash src="logo.png"     gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="logo.png" gap:platform="winphone" />
 
-    <access origin="http://138.128.217.39" subdomains="true" /> 
+    <access origin="http://138.128.215.417/HeCai" subdomains="true" /> 
   
 </widget>
